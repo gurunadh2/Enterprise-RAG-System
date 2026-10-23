@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation (RAG) combines
+retrieval systems with large language models.
+
+Vector databases store embeddings.
+
+Hybrid search combines vector search
+and keyword search.
+
+Qdrant is a vector database.
